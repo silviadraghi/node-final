@@ -3,6 +3,11 @@ const app = express()
 
 app.use(express.static("public"));
 
+app.use(express.json());
+
+const productosRouter = require('./routes/productos.router')
+app.use('/productos', productosRouter);
+
 app.get('/', (req,res) => {
     res.send("hola express84");
 });
