@@ -1,0 +1,98 @@
+[
+    {
+        "categoria":"banco",
+        "articulo":"banco cuadrado",
+        "medida":"0.80x0.40x0.60",
+        "color":["marron","blanco"],
+        "madera":"ëucaliptu",
+        "precio":50000
+    },
+    {
+        "categoria":"banco",
+        "articulo":"banco apoya zapatos",
+        "medida":"0.90x0.40x0.70",
+        "color":["marron","negro"],
+        "madera":"ëucaliptu",
+        "precio":70000
+    },
+    {
+        "categoria":"banco",
+        "articulo":"escalera",
+        "medida":"0.40x0.40x0.80",
+        "color":"beige",
+        "madera":"ëucaliptu",
+        "precio":30000
+    },
+    {
+        "categoria":"silla",
+        "articulo":"silla respaldo recto",
+        "medida":"0.90x0.40x0.60",
+        "color":["marron","beige"],
+        "madera":"ëucaliptu",
+        "precio":40000
+    },
+    {
+        "categoria":"silla",
+        "articulo":"silla respaldo curvo",
+        "medida":"0.90x0.40x0.60",
+        "color":["marron","beige"],
+        "madera":"ëucaliptu",
+        "precio":40000
+    },
+    {
+        "categoria":"silla",
+        "articulo":"silla respaldo cruz",
+        "medida":"0.90x0.40x0.60",
+        "color":["marron","gris"],
+        "madera":"ëucaliptu",
+        "precio":40000
+    },
+    {
+        "categoria":"estanteria",
+        "articulo":"estanteria estante fino",
+        "medida":"1.40x0.90",
+        "color":"natural",
+        "madera":"ëucaliptu",
+        "precio":140000
+    },
+    {
+        "categoria":"estanteria",
+        "articulo":"estanteria estante plano",
+        "medida":"1.70x0.90",
+        "color":"blanco",
+        "madera":"ëucaliptu",
+        "precio":140000
+    },
+    {
+        "categoria":"estanteria",
+        "articulo":"estanteria estante con tope",
+        "medida":"1.50x1.20",
+        "color":"marron",
+        "madera":"ëucaliptu",
+        "precio":160000
+    },
+    {
+        "categoria":"comoda",
+        "articulo":"comoda dos puertas",
+        "medida":"1.20x0.90",
+        "color":"marron",
+        "madera":"ëucaliptu",
+        "precio":180000
+    },
+    {
+        "categoria":"mesa",
+        "articulo":"mesa para bar",
+        "medida":"1.20x0.90",
+        "color":"marron",
+        "madera":"ëucaliptu",
+        "precio":140000
+    },
+    {
+        "categoria":"mesa",
+        "articulo":"mesa redonda",
+        "medida":"1.30x0.90",
+        "color":["marron","negro"],
+        "madera":"ëucaliptu",
+        "precio":140000
+    } 
+]
